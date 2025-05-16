@@ -11,8 +11,6 @@ This is a classic Snake game implemented in **Python** using the **Pygame Zero**
 - Snake color changes to gray on collision to indicate game over.
 
 ## 🖥️ Screenshot
-
-> *(Optional: Add a screenshot here)*  
 > ![Screenshot](./Screenshot.PNG)
 
 ## 📦 Features
